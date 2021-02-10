@@ -32,4 +32,5 @@ if (mode === "encrypt") {
   });
 }
 
+console.log("Insert your USB device as a key.");
 usbDetect.startMonitoring();
