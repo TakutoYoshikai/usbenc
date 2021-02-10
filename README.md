@@ -1,6 +1,12 @@
 # usbenc
 The encryptor by any USB device.
 
+### Requirements
+* Ubuntu 20.10
+* Node.js
+* libudev-dev
+* build-essential
+
 ### Usage
 **install**
 ```bash
