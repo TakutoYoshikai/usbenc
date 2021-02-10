@@ -1,0 +1,22 @@
+{
+  "name": "usbenc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "usbenc": "./bin/usbenc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "file-encryptor": "^0.1.1",
+    "usb": "^1.6.4",
+    "usb-detection": "^4.10.0"
+  }
+}
