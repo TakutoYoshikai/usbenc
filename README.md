@@ -1,4 +1,4 @@
-#usbenc
+# usbenc
 The encryptor by any USB device.
 
 ### Usage
