@@ -1,7 +1,7 @@
 # usbenc
 The encryptor by any USB device. 
 
-### Warning!!!
+### ⚠ Warning!!! ⚠
 It may be vulnerable from brute force attack and dictionary attack. I do not guarantee safety.
 
 ### Requirements
