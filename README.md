@@ -21,7 +21,7 @@ usbenc encrypt <FILE>
 
 **decrypt**
 ```bash
-usbenc decrypt <FILE>
+usbenc decrypt <ENCRYPTED FILE>
 # insert a USB device.
 ```
 
