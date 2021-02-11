@@ -2,7 +2,7 @@
 The encryptor by any USB device. 
 
 ### Warning!!!
-It may be vulnerable from force attack and dictionary attack. I do not guarantee safety.
+It may be vulnerable from brute force attack and dictionary attack. I do not guarantee safety.
 
 ### Requirements
 * Ubuntu 20.10
