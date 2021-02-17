@@ -30,6 +30,9 @@ if (mode === "encrypt") {
       process.exit(0);
     });
   });
+} else {
+  console.error("mode must be encrypt or decrypt.");
+  process.exit(0);
 }
 
 console.log("Insert your USB device as a key.");
